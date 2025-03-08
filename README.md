@@ -3,7 +3,7 @@ Skills : Pandas (Filtering , Groupby , Function In Pandas , Aggregate Functions)
 So , we will be going through some of the analysis in this online shop customers sales. As you must have seen the value in columns ,
 most of them are in numbers. So what we will do is to convert those numerical columns to Categorical columns for better understanding.
 
-Here's a line-by-line explanation of your code:
+Here's a line-by-line explanation of my code:
 
 ---
 
